@@ -1,0 +1,3 @@
+Información general del sistema
+Autor: Equipo de desarrollo
+Versión: 1.0
